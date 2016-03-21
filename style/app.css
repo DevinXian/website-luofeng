@@ -20,8 +20,8 @@
 }
 
 .header .nav-wrapper .title {
-    word-spacing: 25px;
-    letter-spacing: 5px;
+    word-spacing: 7px;
+    letter-spacing: 7px;
     cursor: pointer;
     color: #eee;
     padding: 8px 0;
@@ -38,7 +38,7 @@
     color: #fff;
     cursor: pointer;
     min-width: 35px;
-    padding: 6px 15px 4px;
+    padding: 5px 15px 5px;
     vertical-align: baseline;
     height: 100%;
     font-size: 22px;
