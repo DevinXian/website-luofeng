@@ -1,0 +1,23 @@
+{
+  "name": "luofengblog",
+  "version": "0.0.1",
+  "description": "luofeng's personal blog",
+  "main": "index.js",
+  "scripts": {
+    "test": "node test/index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/DevinXian/website-luofeng.git"
+  },
+  "keywords": [
+    "blog",
+    "luofeng"
+  ],
+  "author": "luofeng",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/DevinXian/website-luofeng/issues"
+  },
+  "homepage": "https://github.com/DevinXian/website-luofeng#readme"
+}
